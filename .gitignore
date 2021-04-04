@@ -1,0 +1,8 @@
+/.gradle/
+/.idea/
+/build/
+/data*/
+
+*public_key
+*.bak
+*.log
